@@ -1,2 +1,25 @@
 = Synthèse des réponses au mail envoyé sur la ML Loops
 
+== Ecoles doctorales
+
+* https://ecole-doctorale.obspm.fr/fr/[Ecole Doctorale Astronomie et Astrophysique d'Ile de France, A&A IdF]
+** LAL
+* https://www.universite-paris-saclay.fr/fr/formation/doctorat/particules-hadrons-energie-noyau-instrumentation-imagerie-cosmos-et-simulation-0#l-ecole-doctorale[PHENIICS]
+** LAL, 
+** IAS
+* https://www.universite-paris-saclay.fr/fr/formation/doctorat/sciences-et-technologies-de-linformation-et-de-la-communication-stic-0#l-ecole-doctorale[STIC]
+** DAVID
+** Maison de la simulation
+** LRI
+
+
+== Support 
+
+* Philippe G. (possible)
+* Stéphane L. (suports)
+* Martial M. (salle, cours)
+* Anne-Catherine L. 
+
+== Idée
+
+Demander l'inscription à l'https://www.adum.fr/index.pl[ADUM]
