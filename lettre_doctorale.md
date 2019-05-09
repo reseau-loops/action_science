@@ -4,7 +4,7 @@ Je vous écrit au nom du comité de pilotage du réseau métier Loops, au sujet 
 
 Loops (https://reseau-loops.github.io/about.html), est le réseau métier du développement logiciel de l'Enseignement Supérieur et de la Recherche du sud-ouest de Paris, dont le site de Paris-Saclay.
 
-Constitué d'ingénieurs et de chercheurs, nous partageons tous le même constat : par manque de temps ou de formation, le développement de code logiciel, outil incontournable du chercheur et du doctorant, se révèle trop souvent pénalisant, chronophage voire décevant.
+Nous, ingénieurs et chercheurs, partageons tous le même constat : par manque de temps ou de formation, le développement de code logiciel, outil incontournable du chercheur et du doctorant, se révèle trop souvent pénalisant, chronophage voire décevant.
 
 Nous voulons, à travers une sensibilisation à des notions et des techniques simples, accessibles et concrètes, leur permettre d'être plus à l'aise avec le code au quotidien, de se "faciliter le code".
 Pour un faible investissement en temps, nous proposons d'éviter de se battre avec le code et d'en faire un allié sûr. 
